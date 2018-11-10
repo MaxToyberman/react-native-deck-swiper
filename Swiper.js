@@ -111,9 +111,9 @@ class Swiper extends Component {
       height - cardVerticalMargin * 2 - marginTop - marginBottom
 
     this.cardStyle = {
-      top: cardVerticalMargin,
-      left: cardHorizontalMargin,
-      width: cardWidth,
+      top: 0,
+      left: 0,
+      width: width,
       height: cardHeight
     }
 
